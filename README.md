@@ -1,6 +1,6 @@
 # covid-19-hackathon
 
-This repo originated as a part of a hackathon sponsored by Wei Shung, and he created the stub data access code. Thanks to him for taking the initiative to get some data geeks going.
+This repo originated as a part of a hackathon sponsored by Wei Shung Chung, and he created the stub data access code. Thanks to him for taking the initiative to get some data geeks going.
 
 # by_state_covid_analysis
 
@@ -52,8 +52,6 @@ We've done our best to document the data sets, methodology, assumptions and know
 ### Join Slack Channel for Discussion
 - [AI For Mankind Slack Channel](https://tinyurl.com/vepdjpf)
 
-#### Contact Us
-If you have any questions, please feel free to
-
-Email us at [ai.for.mankind@gmail.com](ai.for.mankind@gmail.com)
+#### Original Hackathon
+If you want to work on other AI-related projects to improve mankind, email Wei Shung Chung at [ai.for.mankind@gmail.com](ai.for.mankind@gmail.com)
 
