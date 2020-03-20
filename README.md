@@ -2,6 +2,11 @@
 
 This repo originated as a part of a hackathon sponsored by Wei Shung Chung, and he created the stub data access code. Thanks to him for taking the initiative to get some data geeks going.
 
+There are 2 summary videos you can watch about this too:
+Short version:https://www.youtube.com/watch?v=lLJR3ItY938
+
+Long (statistical) version: https://www.youtube.com/watch?v=WjBVeD-_I-A
+
 # by_state_covid_analysis
 
 This analysis code is described in this presentation:
